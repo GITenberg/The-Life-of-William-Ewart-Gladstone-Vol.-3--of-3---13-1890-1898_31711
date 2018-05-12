@@ -1,0 +1,31 @@
+_repo: The-Life-of-William-Ewart-Gladstone-Vol.-3--of-3---13-1890-1898_31711
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morley, John
+    alias: Morley, Viscount
+    birthdate: 1838
+    deathdate: 1923
+    gutenberg_agent_id: '3767'
+    url: http://www.gutenberg.org/2009/agents/3767
+    wikipedia: http://en.wikipedia.org/wiki/John_Morley,_1st_Viscount_Morley_of_Blackburn
+description: ''
+gutenberg_issued: '2010-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31711'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Politics and government -- 1837-1901'
+- !lcc 'DA'
+- !lcsh 'Liberal Party (Great Britain) -- Biography'
+- !lcsh 'Prime ministers -- Great Britain -- Biography'
+- !lcsh 'Gladstone, W. E. (William Ewart), 1809-1898'
+title: "The Life of William Ewart Gladstone, Vol. 3 (of 3)\r\n1890-1898"
+url: http://www.gutenberg.org/ebooks/31711
