@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3767
     wikipedia: http://en.wikipedia.org/wiki/John_Morley,_1st_Viscount_Morley_of_Blackburn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31711#The-Life-of-William-Ewart-Gladstone-Vol.-3--of-3---13-1890-1898
 gutenberg_issued: '2010-03-20'
 gutenberg_type: Text
 identifiers:
